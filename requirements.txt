@@ -1,0 +1,12 @@
+voila>=0.1.21
+IPython
+datetime
+halo
+ipywidgets
+matplotlib
+numpy
+pandas
+sesd
+sklearn
+statsmodels
+tqdm
